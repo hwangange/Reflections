@@ -26,3 +26,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 Result: One branch with all previous commits. 
 Reason: The two branches are now one, so another node must be drawn to connect the two.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros: Save time and effort
+Cons: Cause bugs, skip major components
