@@ -15,4 +15,9 @@ What are some situations when branches would be helpful in keeping your history 
 If you want to...
 Create different versions of your project
 Test a new feature.
+Or if you just fixed a bug.
 Branches allow you to easily revert back to the original version if your new version does not work out nicely.
+
+How do the diagrams help you visualize the branch structure?
+
+Physical representation of the branch structure; helps you identify detached heads to prevent you from losing any potential major changes.
