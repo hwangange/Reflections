@@ -9,3 +9,10 @@ Staging area encourages you to focus on certain documents over everything at onc
 How can you use the staging area to make sure you have one commit per logical change?
 
 staging area gives you a preview of what you are about to commit. You can use 'git diff' to see the changes made between the staging area and working directory to verify that you have one commit per logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If you want to...
+Create different versions of your project
+Test a new feature.
+Branches allow you to easily revert back to the original version if your new version does not work out nicely.
