@@ -5,3 +5,9 @@ When you're working with others or on multiple computing systems.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Automatic updates may involve syncing unwanted/useless code or unimportant changes. How inefficient is that?
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Branches: A collection of commits grouped together
+Clones: Copy of repository either from GitHub to local server or from local server to local server
+Forks: Copy of repository from GitHub to GitHub
