@@ -21,3 +21,8 @@ Branches allow you to easily revert back to the original version if your new ver
 How do the diagrams help you visualize the branch structure?
 
 Physical representation of the branch structure; helps you identify detached heads to prevent you from losing any potential major changes.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Result: One branch with all previous commits. 
+Reason: The two branches are now one, so another node must be drawn to connect the two.
