@@ -21,3 +21,9 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 Google Drive, Dropbox, Email
 Easier: sharing/uploading files
 Harder: Tracking history, making edits
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you are testing a new feature that may lead to features; when you want the master branch to remain untouched.
+Benefits of Separate Branch: Doesn't affect master branch
+Benefits of Working Directly on Master Branch: No need to go through the process of merging the two branches
